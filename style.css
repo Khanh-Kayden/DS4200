@@ -1,0 +1,15 @@
+#main {
+    color:red;
+}
+
+.A {
+    color:blue;
+}
+
+h1 {
+    width: 400px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+/* class used dot, id used #/
